@@ -48,11 +48,19 @@
 
 ---
 
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Oshiokex/Projects"><img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Oshiokex&repo=Projects&theme=radical" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Oshiokex&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Oshiokex&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Oshiokex&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Oshiokex&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
