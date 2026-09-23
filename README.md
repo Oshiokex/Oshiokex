@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divine 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Backend Developer | CVE Author</h3>
+<h3 align="center">Cybersecurity Enthusiast | Web App Developer | CVE Author</h3>
 
 <p align="center">
   <em>pentesting, secure code, and strong coffee</em>
